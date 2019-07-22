@@ -25,7 +25,7 @@ const mix = require('laravel-mix');
 
 
 6.npm install cross-env --save-dev
-
+///////////////////////////comandos para compilar//////////////////////////////////////
 7.npm run dev
 
 8.npm rum watch
@@ -64,3 +64,9 @@ tailwind.config.js
 package.json
 mix-manifest.json
 package-lock.json
+
+//////////////////////////////////////////////////
+
+
+
+
