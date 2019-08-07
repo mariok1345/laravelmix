@@ -4,7 +4,7 @@
 2.npm install laravel-mix --save-dev
 3.cp -r node_modules/laravel-mix/setup/webpack.mix.js ./
 
-4.integro el script en packaje.js
+4.integro el script en package.json
 
 "scripts": {
     "dev": "npm run development",
